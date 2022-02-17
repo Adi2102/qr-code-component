@@ -14,7 +14,7 @@ body {
   font-family: "Outfit", sans-serif;
 }
 
-.container {
+.main {
   height: 95vh;
   width: 100vw;
   display: flex;
@@ -39,14 +39,14 @@ body {
 }
 
 .card h2 {
-  padding: 10px 20px 10px 20px;
+  padding: 10px 20px;
   font-size: 22px;
   text-align: center;
   color: hsl(218, 44%, 22%);
 }
 
 .card p {
-  padding: 10px 20px 50px 20px;
+  padding: 10px 20px 50px;
   text-align: center;
   color: hsl(220, 15%, 55%);
 }
